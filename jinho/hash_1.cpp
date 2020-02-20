@@ -22,6 +22,7 @@ string solution(vector<string> participant, vector<string> completion) {
     {
         answer = it->first;
     }
+    //commit
     return answer;
     // return answer;
 }
